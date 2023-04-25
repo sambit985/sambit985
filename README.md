@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <br>
-<img aligh="right" alt="coding" width="400" src="https://gifdb.com/images/thumbnail/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="coding" width="400" height="320" src="https://gifdb.com/images/thumbnail/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 - 🔭 I’m currently working on **Application Developemnt using technologies such as Node.js, Express.js, React.js, Mongodb, MySQL and more.**
 
