@@ -29,10 +29,6 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambit985" alt="sambit985" /></a> </p>
-
-<br>
-
 <h2 align="left">🔥 Tech Stack</h2>
 
 ### Front End Skills :
@@ -68,6 +64,9 @@
 
 <br>
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambit985&show_icons=true&locale=en&layout=compact" alt="sambit985" /></p>
 
@@ -75,3 +74,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambit985&" alt="sambit985" /></p>
 
+<br>
+<h2 align="left">⭐ Thanks For Visit !</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sambit985" alt="sambit985" /></a> </p>
