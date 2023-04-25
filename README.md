@@ -5,7 +5,7 @@
 <br>
 <img align="right" alt="coding" width="400" height="320" src="https://gifdb.com/images/thumbnail/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-- 🔭 I’m currently working on **Application Developemnt using technologies such as Node.js, Express.js, React.js, Mongodb, MySQL and more.**
+- 🔭 I’m currently working on **Application Developemnt** using technologies such as Node.js, Express.js, React.js, Mongodb, MySQL and more.
 
 - 🌱 I’m currently Preparing for **Switch Company**
 
