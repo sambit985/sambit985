@@ -1,4 +1,4 @@
-
+![](https://github.com/sambit985/sambit985/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sambit Kumar Nayak</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
