@@ -3,19 +3,20 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <br>
-<img align="right" alt="coding" width="400" height="320" src="https://camo.githubusercontent.com/db0a55a9e897894470b2e1b8a934da5c32545cdce892ebb9424a4a6b1ef64267/68747470733a2f2f7777772e64616d696573746563686e6f6c6f676965732e636f6d2f696d672f70726f6772616d6d65722e676966">
+<img align="right" alt="coding" width="400" height="320" src="https://camo.githubusercontent.com/ff9f2b8153310bc8f71d351292657ac51216a098179b4b162203c25c5629b278/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4643544a56327534455471746b76466e30493166593138345562647057687170417979563677373733326f6f6b68466e6241465f674261574d4e66417732387a5f476856655a6d514959376a625575446c46456a575776366c644c65374676724a67343d77373530">
+
 
 - 🔭 I’m currently working on **Application Developemnt** using technologies such as Node.js, Express.js, React.js, Mongodb, MySQL and more.
 
-- 🌱 I’m currently Preparing for **Switch Company**
+- 🌱 I’m currently working for **ViXR Inc**
 
 - 👯 I’m looking to collaborate with **Peoples with Amaizing Ideas**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sambit985](https://github.com/sambit985)
+- 👨‍💻 All of my projects are available at [https://github.com/sambit985](https://github.com/SambitNayak1)
 
-- 💬 Ask me about **FrontEnd and BackEnd**
+- 💬 Ask me about **FrontEnd || BackEnd || DevOps**
 
-- 📫 How to reach me **sambit98530@gmail.com**
+- 📫 How to reach me **sambit@vixr.io**
 
 <br> 
 
@@ -54,15 +55,35 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
+### Devops Skills :
+<p>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" alt="Docker" width="40" height="40" />
+ </a>
+ <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+ <img src="https://img2.freepng.fr/20180515/zxe/kisspng-jenkins-docker-continuous-delivery-installation-so-5afa799e222331.1197773615263645741398.jpg" alt="Jenkins" width="40" height="40" />
+ </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> 
+ <img src="https://miro.medium.com/v2/resize:fit:666/1*rn-sO9oWLn9lYO7jkVO6og.png" alt="sonarqube" width="60" height="40" />
+ </a>
+   <a href="https://aws.amazon.com/ec2/instance-types/" target="_blank" rel="noreferrer"> 
+ <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AYYoJzXX--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsrrq6s1f12v8jhe2ubj.png" alt="AWS" width="65" height="45" />
+ </a>
+</p>
+
 ### Tools Skills :
 <p>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+ <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/o7xu9whrs0u9/7Erq6IEoCaJkBtHMhblLzS/9310518537dffc123d3d9059edace8ed/Grafana-logo-2.png" alt="grafana" width="" height="45"/>
+ </a> 
+
 </p>
 
 <br>
+
 
 <h2 align="left">📊 GitHub Stats</h2>
 
